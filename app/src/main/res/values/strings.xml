@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">球球进洞小游戏</string>
+    <string name="Start_Game">Start Game</string>
+    <string name="Help">Help</string>
+    <string name="Exit">Exit</string>
+    <string name="Restart">Restart</string>
+    <string name="Pause">Pause</string>
+    <string name="You_Win">Congratulations!! You Win!!</string>
+
+    <string name="Help_TEXT">通过倾斜手机实现蓝色小球的移动；倾斜手机幅度越大，小球移动速度越快。小球的运动由迷宫约束，撞到迷宫的墙壁会反弹。
+                      \n红色小球位置代表起点，绿色小球位置代表终点。
+                      \n每一个关卡中，小球开始位于起点，帮助小球通到迷宫终点，到达终点视为游戏过关。
+                      \n\n\n祝你好运！</string>
+</resources>
